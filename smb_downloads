@@ -1,0 +1,9 @@
+[downloads]
+   comment = Downloads folder
+   path = /downloads
+   directory mode = 777
+   create mode = 777
+   guest ok = yes
+   guest only = yes
+   public = yes
+   writeable = yes
